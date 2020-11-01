@@ -7,7 +7,6 @@ export default function Footer() {
       <Container>
         <div className="py-6 flex flex-col lg:flex-row items-center">
           <p>Built with 🏳️‍🌈 by Murphy Studebaker</p>
-          <p><a>Contribute a Syllabus</a></p>
         </div>
       </Container>
     </footer>
