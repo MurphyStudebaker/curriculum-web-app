@@ -2,6 +2,7 @@ import Avatar from '../components/avatar'
 import DateFormatter from '../components/date-formatter'
 import CoverImage from './cover-image'
 import Link from 'next/link'
+import TagPills from './TagPills'
 
 export default function PostPreview({
   title,
@@ -10,6 +11,7 @@ export default function PostPreview({
   excerpt,
   author,
   slug,
+  tags
 }) {
   return (
     <Link as={`/posts/${slug}`} href="/posts/[slug]">
@@ -18,6 +20,7 @@ export default function PostPreview({
           <a>{title}</a>
       </h3>
       <p className='text-lg'>by <span className='font-bold'>{author.name}</span>, a {author.bio}</p>
+      <TagPills tags={tags} />
     </div>
     </Link>
 
