@@ -5,8 +5,7 @@ author:
   name: Murphy Studebaker
   bio: a professional data scientist and the founder of this website.
 tags:
- - Environmental Science
- - Cooking
+ - environment
 ---
 
 ## 📚 Required Reading

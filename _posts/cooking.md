@@ -5,8 +5,8 @@ author:
   name: Murphy Studebaker
   bio: professional data scientist and the founder of this website.
 tags:
- - Cooking
- - Life Skills
+ - cooking
+ - life
 ---
 
 ## 📚 Required Reading

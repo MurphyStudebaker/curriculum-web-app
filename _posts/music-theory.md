@@ -5,8 +5,8 @@ author:
   name: Kiefer Detrick
   bio: music educator and songwriter in Los Angeles
 tags:
- - Creative Arts
- - Life Skills
+ - arts
+ - life
 ---
 
 ## 📚 Required Reading

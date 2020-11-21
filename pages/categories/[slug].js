@@ -10,50 +10,24 @@ import PostTitle from '../../components/post-title'
 import Head from 'next/head'
 import markdownToHtml from '../../lib/markdownToHtml'
 
-export default function CategoryPage({ post, morePosts, preview }) {
+export default function CategoryPage() {
   const router = useRouter()
-  if (!router.isFallback && !post?.slug) {
+  if (!router.isFallback) {
     return <ErrorPage statusCode={404} />
   }
   return (
-    <Layout preview={preview}>
       <Container>
-        <Header />
-        {router.isFallback ? (
-          <PostTitle>Loading…</PostTitle>
-        ) : (
-          <>
-            <article className="mb-32">
-              <Head>
-                <title>
-                  {post.title} | Curriculum
-                </title>
-              </Head>
-              <PostHeader
-                title={post.title}
-                coverImage={post.coverImage}
-                date={post.date}
-                author={post.author}
-                tags={post.tags}
-              />
-              <PostBody content={post.content} />
-            </article>
-          </>
-        )}
+        <p>category page</p>
       </Container>
-    </Layout>
   )
 }
 
 export async function getStaticProps({ params }) {
-  const post = getPostBySlug(params.slug, [
+  const post = getPostsByCategory(params.slug, [
     'title',
-    'date',
     'slug',
     'author',
     'content',
-    'ogImage',
-    'coverImage',
     'tags',
   ])
   const content = await markdownToHtml(post.content || '')

@@ -5,7 +5,7 @@ author:
   name: Murphy Studebaker
   bio: professional data scientist and the founder of this website.
 tags:
- - Technology
+ - tech
 ---
 
 ## 📚 Required Reading

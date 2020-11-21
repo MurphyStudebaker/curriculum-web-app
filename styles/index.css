@@ -11,5 +11,21 @@
 /* Start purging... */
 @tailwind utilities;
 /* Stop purging. */
+@layer utilities {
+    .background-blob-left {
+        position: absolute;
+        top: 10;
+        left: 5;
+        width: 40vmax;
+        z-index: -1;
+    }
+    .background-blob-right {
+        position: absolute;
+        top: 5;
+        left: 30;
+        width: 40vmax;
+        z-index: -1;
+    }
+}
 
 /* Your own custom utilities */
