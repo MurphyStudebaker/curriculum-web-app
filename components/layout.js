@@ -1,6 +1,7 @@
 import Alert from '../components/alert'
 import Footer from '../components/footer'
 import Meta from '../components/meta'
+import PrideBanner from './bwp-banner'
 
 export default function Layout({ preview, children }) {
   return (
@@ -10,6 +11,7 @@ export default function Layout({ preview, children }) {
         <main>{children}</main>
       </div>
       <Footer />
+      <PrideBanner />
     </>
   )
 }

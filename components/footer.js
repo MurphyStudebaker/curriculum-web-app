@@ -4,15 +4,12 @@ import { EXAMPLE_PATH } from '../lib/constants'
 
 export default function Footer() {
   return (
-    <footer className="bg-accent-1 border-t border-accent-2">
+    <footer className="bg-yellow">
       <Container>
-        <div className="py-6 flex flex-col lg:flex-row justify-between items-center">
-          <p>Built with 🏳️‍🌈 by Murphy Studebaker</p>
-          <div>
-            <Link className='pr-4' href='/about'>About</Link>
-            <Link href='/contribute'>Contribute</Link>
-          </div>
-        </div>
+        <h3>Curriculum</h3>
+        <p>Self-study curriculum on any topic from industry professionals.</p>
+      
+        <p>Our curriculum is open source! Read our contribution guide.</p>
       </Container>
     </footer>
   )

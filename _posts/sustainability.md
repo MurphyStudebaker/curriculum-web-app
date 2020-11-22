@@ -4,6 +4,8 @@ date: '2020-12-01'
 author:
   name: Murphy Studebaker
   bio: a professional data scientist and the founder of this website.
+  links: 
+    - 'https://www.instagram.com/murphystudebaker/'
 tags:
  - environment
 ---

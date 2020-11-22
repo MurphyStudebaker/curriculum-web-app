@@ -26,6 +26,9 @@
         width: 40vmax;
         z-index: -1;
     }
+    .bg-yellow {
+        background-color: #F1C21B;
+    }
 }
 
 /* Your own custom utilities */
