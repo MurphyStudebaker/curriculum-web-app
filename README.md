@@ -1,51 +1,58 @@
-# A statically generated blog example using Next.js and Markdown
+# Curriculum
 
-This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using Markdown files as the data source.
+Self-study curriculum on niche topics from industry professionals. 
 
-The blog posts are stored in `/_posts` as Markdown files with front matter support. Adding a new Markdown file in there will create a new blog post.
+This web app was built using Next.js and TailwindCSS and is deployed on Netlify. 
 
-To create the blog posts we use [`remark`](https://github.com/remarkjs/remark) and [`remark-html`](https://github.com/remarkjs/remark-html) to convert the Markdown files into an HTML string, and then send it down as a prop to the page. The metadata of every post is handled by [`gray-matter`](https://github.com/jonschlinkert/gray-matter) and also sent in props to the page.
+## Contribution Guide
+Want to contribute a new syllabus or update an existing one? Perfect! Just make your changes in the `_posts` directory and submit a pull request. We will review all submissions and approve those that meet the criteria below. 
 
-## Demo
+To add a new syllabus, copy this template to a new file in the `_posts` directory named `<your_syllabus_slug>.md`. Slugs should be unique and succint. 
 
-[https://next-blog-starter.now.sh/](https://next-blog-starter.now.sh/)
+### Syllabus Template
+```
+---
+title: '🧙 Defense Against the Dark Arts'
+author:
+  name: Harry Potter
+  bio: the Chosen One. Now an Auror.
+  links:
+    - 'https://harrypotter.fandom.com/wiki/Main_Page'
+tags:
+ - spells
+---
 
-## Deploy your own
+## 📚 Required Reading
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+## 🎬 Supporting Media
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?c=1&s=https://github.com/vercel/next.js/tree/canary/examples/blog-starter)
+## ✈️ Field Trips
 
-### Related examples
+## ✍ Assignments
 
-- [WordPress](/examples/cms-wordpress)
-- [DatoCMS](/examples/cms-datocms)
-- [Sanity](/examples/cms-sanity)
-- [TakeShape](/examples/cms-takeshape)
-- [Prismic](/examples/cms-prismic)
-- [Contentful](/examples/cms-contentful)
-- [Strapi](/examples/cms-strapi)
-- [Agility CMS](/examples/cms-agilitycms)
-- [Cosmic](/examples/cms-cosmic)
-- [ButterCMS](/examples/cms-buttercms)
-- [Storyblok](/examples/cms-storyblok)
-- [GraphCMS](/examples/cms-graphcms)
-- [Kontent](/examples/cms-kontent)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example blog-starter blog-starter-app
-# or
-yarn create next-app --example blog-starter blog-starter-app
+## 🙏 Volunteerships
 ```
 
-Your blog should be up and running on [http://localhost:3000](http://localhost:3000)! If it doesn't work, post on [GitHub discussions](https://github.com/vercel/next.js/discussions).
+### Front Matter
+All syllabi require the following frontmatter to render proberly on the page. 
 
-Deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+`title`: The title of your area of study, with the first character a related emoji. 
 
-# Notes
+`author`: Your `name` (or the name of your company), a short `bio` that will display exactly as is after your name, and up to 3 social media `links` that will display under your bio on the syllabus page.    
 
-This blog-starter uses [Tailwind CSS](https://tailwindcss.com). To control the generated stylesheet's filesize, this example uses Tailwind CSS' v1.4 [`purge` option](https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css) to remove unused CSS.
+`tags`: the tags that appropriately describe your area of study. Feel free to add new tags, but use existing tags if they are relevant. 
+
+Existing tags include: `life`, `tech`, `cooking`, `environment`, `arts`
+
+### Content Structure
+The syllabi are designed to be a loose list of resources and useful content to learn the subject matter within a single year, ideally while travelling full time. Provide links to the resources you are listing wherever possible.
+
+You are welcome to suggest new content categories, but we currently work with the following 5:
+
+- **Required Reading**: A list of books, blog posts, or articles to read on the subject.
+- **Supporting Media**: Any YouTube videos, documentaries, or other forms of media relevant to the subject matter. 
+- **Field Trips**: Real world activities that can be completed to learn more on the subject matter, ideally from multiple different countries/continents. 
+- **Assignments**: Any specific assignments or journal prompts that can be completed to gain mastery on the subject.
+- **Volunteerships**: Any volunteer programs related to the subject matter where someone could get hands on experience while contributing to social good. 
+
+Please try to include all 5 in your syllabus, unless there is a reason one (or multiple) sections are not suitable for your particular area of study. 
