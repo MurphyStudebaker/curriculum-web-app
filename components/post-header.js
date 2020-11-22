@@ -11,10 +11,10 @@ export default function PostHeader({ title, coverImage, date, author, tags }) {
       <PostTitle>{title}</PostTitle>
       <div className="max-w-2xl mx-auto">
         <p className='text-lg'>by <span className='font-bold'>{author.name}</span>, <br /> {author.bio}</p>
-        <div className='mt-4 flex'>
+        <div className='mt-2 flex'>
         {
           author.links && author.links.map(l => (
-            <SocialIcon url={l} />
+            <SocialIcon url={l} bgColor='#F1C21B' />
           )) 
         } </div>
         {/* <TagPills tags={tags} /> */}
