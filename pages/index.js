@@ -7,15 +7,15 @@ import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import { CMS_NAME } from '../lib/constants'
 import Tags from '../components/tags'
-import algoliasearch from 'algoliasearch/lite'
-import { InstantSearch, SearchBox, Hits } from 'react-instantsearch-dom'
+//import algoliasearch from 'algoliasearch/lite'
+//import { InstantSearch, SearchBox, Hits } from 'react-instantsearch-dom'
 
 import { useState } from 'react'
 
 export default function Index({ allPosts }) {
   const [morePosts, setPosts] = useState(allPosts)
 
-  const searchClient = algoliasearch(process.env.ALGOLIA_UID, process.env.ALGOLIA_SEARCH_KEY)
+//  const searchClient = algoliasearch(process.env.ALGOLIA_UID, process.env.ALGOLIA_SEARCH_KEY)
 
   const getTags = (posts) => {
     let uniqueTags = []
