@@ -7,11 +7,15 @@ import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import { CMS_NAME } from '../lib/constants'
 import Tags from '../components/tags'
+import algoliasearch from 'algoliasearch/lite'
+import { InstantSearch, SearchBox, Hits } from 'react-instantsearch-dom'
 
 import { useState } from 'react'
 
 export default function Index({ allPosts }) {
   const [morePosts, setPosts] = useState(allPosts)
+
+  const searchClient = algoliasearch(process.env.ALGOLIA_UID, process.env.ALGOLIA_SEARCH_KEY)
 
   const getTags = (posts) => {
     let uniqueTags = []
@@ -24,7 +28,9 @@ export default function Index({ allPosts }) {
   const filterPosts = (tag) => {
     console.log('Filtering...')
     let rawPosts = [...allPosts]
-    rawPosts = rawPosts.filter(p => p.tags.includes(tag))
+    if (tag !== 'all') {
+      rawPosts = rawPosts.filter(p => p.tags.includes(tag))
+    }
     setPosts(rawPosts)
     console.log(morePosts)
   }
@@ -39,6 +45,10 @@ export default function Index({ allPosts }) {
         </Head>
           <Intro />
         <Container>
+        {/* <InstantSearch searchClient={searchClient} indexName="curriculum">
+          <SearchBox />
+          <Hits />
+        </InstantSearch> */}
           <Tags tags={uniqueTags} change={filterPosts}/>
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
         </Container>

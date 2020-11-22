@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Home Cooking",
+        "author": "Murphy Studebaker",
+        "tags": ["cooking", "life"]
+    },
+    {
+        "name": "Sustainability",
+        "author": "Murphy Studebaker",
+        "tags": ["environment"]
+    },
+    {
+        "name": "Machine Learning",
+        "author": "Murphy Studebaker",
+        "tags": ["tech"]
+    },
+    {
+        "name": "Music Theory",
+        "author": "Kiefer Detrick",
+        "tags": ["arts", "life"]
+    }
+]

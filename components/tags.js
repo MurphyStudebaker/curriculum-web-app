@@ -1,7 +1,8 @@
 import Link from 'next/link'
 
 export default function Tags({ tags, change }) {
-    return (
+  tags.push('all')  
+  return (
     <section>
       <h2 className="mb-8 text-6xl md:text-7xl font-bold tracking-tighter leading-tight">
         Categories
