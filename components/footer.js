@@ -9,7 +9,7 @@ export default function Footer() {
         <h3 className='font-bold text-2xl'>Curriculum</h3>
         <p>Self-study curriculum on any topic from industry professionals.</p>
       
-        <p>Our site is open source! Read <a href='' className='font-bold'>our contribution guide.</a></p>
+        <p>Our site is open source! Read <a href='https://github.com/MurphyStudebaker/curriculum-web-app/blob/master/README.md' className='font-bold'>our contribution guide.</a></p>
       </Container>
     </footer>
   )
