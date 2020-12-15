@@ -12,11 +12,11 @@ export default function Intro() {
       </svg>
       <Container>
         <h1 className="text-6xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8">
-          Curriculum.
+          Teach Yourself Already.
         </h1>
         <div className='py-32'>
           <h2 className='text-4xl'>
-            Self-study curriculum on any topic from industry professionals.
+            Self-study curriculum on any topic. It's time to teach yourself.
           </h2>
         </div>
       </Container>

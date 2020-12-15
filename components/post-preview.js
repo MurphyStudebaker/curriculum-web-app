@@ -15,7 +15,7 @@ export default function PostPreview({
 }) {
   return (
     <Link as={`/posts/${slug}`} href="/posts/[slug]">
-    <div className='cursor-pointer border-4 border-black rounded-lg p-6 my-4 hover:shadow-xl'>
+    <div className='cursor-pointer bg-white border-4 border-black rounded-lg p-6 my-4 hover:shadow-xl'>
       <h3 className="text-3xl mb-3">
           <a>{title}</a>
       </h3>

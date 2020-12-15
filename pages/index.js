@@ -41,7 +41,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Curriculum</title>
+          <title>Teach Yourself Already</title>
         </Head>
           <Intro />
         <Container>
