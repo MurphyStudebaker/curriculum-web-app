@@ -29,6 +29,9 @@
     .bg-yellow {
         background-color: #F1C21B;
     }
+    .bg-pink {
+        background-color: #FFD6E8;
+    }
 }
 
 /* Your own custom utilities */

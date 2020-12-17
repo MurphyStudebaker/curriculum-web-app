@@ -27,7 +27,7 @@ export default function Post({ post, morePosts, preview }) {
             <article className="mb-32">
               <Head>
                 <title>
-                  {post.title} | Curriculum
+                  {post.title} | Teach Yourself Already
                 </title>
               </Head>
               <PostHeader
