@@ -23,14 +23,6 @@ tags:
 ---
 
 ## 📚 Required Reading
-
-## 🎬 Supporting Media
-
-## ✈️ Field Trips
-
-## ✍ Assignments
-
-## 🙏 Volunteerships
 ```
 
 ### Front Matter
@@ -45,14 +37,15 @@ All syllabi require the following frontmatter to render proberly on the page.
 Existing tags include: `life`, `tech`, `cooking`, `environment`, `arts`
 
 ### Content Structure
-The syllabi are designed to be a loose list of resources and useful content to learn the subject matter within a single year, ideally while travelling full time. Provide links to the resources you are listing wherever possible.
+The syllabi are designed to be a loose list of online resources, sample assignments, books, blog posts, films and documentaries, etc that a student could use to self-study a topic (think of it as if you were sending a resource list to your friend). They should be succinct enough to prevent learning overwhelm, but exhaustive enough to actually help the student gain a foundational understanding of the topic. 
 
-You are welcome to suggest new content categories, but we currently work with the following 5:
+Each topic will probably warrant its own structure, so feel free to define your own. In general, the curriculum should be segmented into sections that should be completed from top to bottom. Each section can contain a variety of different resources, categorized with an emoji:
 
-- **Required Reading**: A list of books, blog posts, or articles to read on the subject.
-- **Supporting Media**: Any YouTube videos, documentaries, or other forms of media relevant to the subject matter. 
-- **Field Trips**: Real world activities that can be completed to learn more on the subject matter, ideally from multiple different countries/continents. 
-- **Assignments**: Any specific assignments or journal prompts that can be completed to gain mastery on the subject.
-- **Volunteerships**: Any volunteer programs related to the subject matter where someone could get hands on experience while contributing to social good. 
+- `📖 Book`
+- `📽️ Movie/Documentary`
+- `📺 Online Video or Playlist`
+- `📝 Blog Post`
+- `🔗 Online Resource`
+- `✍️ Assignment`
 
-Please try to include all 5 in your syllabus, unless there is a reason one (or multiple) sections are not suitable for your particular area of study. 
+Note: Please do not include affiliate links in your submissions. We will change them all to non-affiliate links. 
