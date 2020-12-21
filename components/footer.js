@@ -1,6 +1,6 @@
 import Container from './container'
 import Link from 'next/link'
-import { EXAMPLE_PATH } from '../lib/constants'
+import Email from './email'
 
 export default function Footer() {
   return (
@@ -12,6 +12,8 @@ export default function Footer() {
         <p>Self-study curriculum on any topic.</p>
       
         <p>Our site is open source! Read <a href='https://github.com/MurphyStudebaker/curriculum-web-app/blob/master/README.md' className='font-bold'>our contribution guide.</a></p>
+      
+      
       </Container>
     </footer>
   )
