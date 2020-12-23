@@ -16,13 +16,13 @@ title: '🧙 Defense Against the Dark Arts'
 author:
   name: Harry Potter
   bio: the Chosen One. Now an Auror.
-  links:
-    - 'https://harrypotter.fandom.com/wiki/Main_Page'
+  links:'https://harrypotter.fandom.com/wiki/Main_Page'
 tags:
  - spells
 ---
 
-## 📚 Required Reading
+## Required Reading
+- 📖 [Fantastic Beasts & Where to Find Them](https://www.jkrowling.com/book/fantastic-beasts-find/)
 ```
 
 ### Front Matter
@@ -30,7 +30,7 @@ All syllabi require the following frontmatter to render proberly on the page.
 
 `title`: The title of your area of study, with the first character a related emoji. 
 
-`author`: Your `name` (or the name of your company), a short `bio` that will display exactly as is after your name, and up to 3 social media `links` that will display under your bio on the syllabus page.    
+`author`: Your `name` (or the name of your company), a short `bio` that will display exactly as is after your name, and one `link` that will open if a user clicks on your name in the syllabus page (can be any social media or website).
 
 `tags`: the tags that appropriately describe your area of study. Feel free to add new tags, but use existing tags if they are relevant. 
 
