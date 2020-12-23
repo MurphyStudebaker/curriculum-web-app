@@ -1,74 +1,34 @@
 ---
-title: '🍳 Home Cooking'
+title: '🍳 Healthy Home Cooking'
 date: '2020-03-16T05:35:07.322Z'
 author:
   name: Murphy Studebaker
-  bio: professional data scientist and the founder of this website.
+  bio: a devout home cook and the founder of this website.
+  link: 'https://www.instagram.com/murphystudebaker/'
 tags:
  - cooking
  - life
 ---
 
-## 📚 Required Reading
+## Essential Skills
+- 📺 [Knife Skills + Chef tips for home cooking](https://www.youtube.com/watch?v=d9KjSEcSsQ4&ab_channel=TheHappyPear)
+- 📺 [Tips for Meal Prepping](https://www.youtube.com/watch?v=ghsw19qAG1g&ab_channel=ProHomeCooks)
+- 📺 [Hacks for more flavorful dishes](https://www.youtube.com/watch?v=9PbKktDkHQU&ab_channel=TheHappyPear)
+- 📺 [Basic introduction to using spices](https://www.youtube.com/watch?v=Ya8m34WeDdg&ab_channel=EthanChlebowski)
+- 📺 [Guide to Roasting Vegetables](https://www.youtube.com/watch?v=TomGub3ir2M&ab_channel=EthanChlebowski)
+- 📺 [Tips for Cooking Rice + other grains](https://www.youtube.com/watch?v=79IeltaoC-4&ab_channel=EthanChlebowski)
 
-1. Cradle to Cradle by Michael Braungart and William McDonough
-2. The Omnivore's Dilemna by Michael Pollan
-3. The Uninhabitable Earth by David Wallace-Wells
-4. The Ends of the World by Peter Brannen
-5. This Radical Land by Daegan Miller
-6. Lab Girl by Hope Jahren
-7. The Story of More by Hope Jahren
-8. Oil and Honey by Bill McKibben
-9. Small is Beautiful: Economics as if People Mattered by E F Schumacher
-10. Deep Ecology by Devall Sessions
-11. Let My People Go Surfing by Yvon Choinard
-12. Civil Disobedience by Henry David Thoreau 
-13. What a Plant Knows by Daniel Chamovitz
 
-## 🎬 Required Watching
+## Go-to Recipes & Sites
+- 📺 [Cheap 3 Ingredient Meals (Super Easy)](https://www.youtube.com/watch?v=CokMEluwe50&t=306s&ab_channel=MadeleineOlivia)
+- 📺 [Vegan Enchiladas (Easy)](https://www.youtube.com/watch?v=dc389EZRR3Y&ab_channel=TheHappyPear)
+- 📺 [10 Simple Sauce recipes (Easy)](https://www.youtube.com/watch?v=aYEtBcxmj7c&ab_channel=ProHomeCooks)
+- 📝 [Whole Roasted Cauliflower - great for potlucks! (Medium)](https://minimalistbaker.com/the-best-whole-roasted-cauliflower-5-ingredients/)
+- 📝 [Romesco (Medium)](http://botanicamag.com/recipes/our-favorite-romesco/)
 
-1. Sustainable Living with Rob Greenfield (5-part YouTube Series) ✔️
-2. Demain (French Documentary) ✔️
-3. The True Cost (Fashion Documentary on Netflix) ✔️
-4. Jane Goodall's Masterclass on Conservation ✔️
-5. Gasland documentary
-6. Virunga documentary
-7. Blackfish documentary
-8. Riverblue
-9. 2040
-10. This Changes Everything
-11. NYT Interactive Losing Earth article
-
-[Losing Earth: The Decade We Almost Stopped Climate Change](https://www.nytimes.com/interactive/2018/08/01/magazine/climate-change-losing-earth.html)
-
-## ✈️ Field Trips
-
-1. WWOOF in 3+ continents to learn about sustainable agriculture across the world
-2. Live in a sustainable Urban City for a month, using only walking and biking for transport (Denmark?)
-3. Cook Organic, Local, In-Season Vegan all year
-4. 10 Day Vipassana Meditation Retreat
-5. Environmental Conference? 
-6. Hear Rob Greenfield speak
-7. Attend a Climate Strike or Rally
-8. Tour the EcoVillage in LA
-9. Scotland or Finland to learn about Right to Wander and practice foraging from the land
-
-## ✍ Assignments
-
-Create an interactive d3 article about something interesting I find (potentially try to sell this to a news publisher?)
-
-write 1 medium article a week about what I have learned/what I'm doing
-
-Research Sustainable Companies
-
-- [https://industryofallnations.com/](https://industryofallnations.com/)
-
-## 🙏 Volunteerships
-
-[Experience Week at the Findhorn Foundation](https://www.findhorn.org/programmes/experience-week/)
-
-[](http://wilderland.org.nz/volunteer)
-
-[Lodging & Rates](https://alturaswildlifesanctuary.org/volunteer/lodging-rates#option-one-the-volunteer-house)
-
-## Related Areas of Study
+## Assignments
+- ✍️ Make a pot of beans from scratch 
+- ✍️ Bake your own bread (see our curriculum on [Sourdough Bread](https://teachyourself.com/sourdough))
+- ✍️ Cook an entire meal using only what you have already
+- ✍️ Adjust the flavor of a meal without a recipe
+- ✍️ Grocery shop at the local farmer's market instead of the store

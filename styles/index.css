@@ -13,10 +13,10 @@
 /* Stop purging. */
 @layer utilities {
     .background-blob-left {
-        position: absolute;
-        top: 10;
-        left: 5;
-        width: 40vmax;
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 60vmax;
         z-index: -1;
     }
     .background-blob-right {
