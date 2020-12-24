@@ -1,6 +1,6 @@
 import { CMS_NAME } from '../lib/constants'
 import Container from './container'
-import Image from 'next/image'
+//import Image from 'next/image'
 
 export default function Intro() {
   return (
