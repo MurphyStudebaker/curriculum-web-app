@@ -18,6 +18,7 @@ tags:
 - 📺 [Logic Masterclass Part 1](https://www.youtube.com/watch?v=sqm8Q3jlNVI&ab_channel=GuildhallSchoolofMusic%26Drama)
 - 📺 [Logic Masterclass Part 2](https://www.youtube.com/watch?v=gZfA4c6GCwM&ab_channel=GuildhallSchoolofMusic%26Drama)
 - 📺 [Logic Quick Tips](https://www.youtube.com/watch?v=fQmLpwsHszg&ab_channel=NathanLarsen)
+- 📺 [Insaenly detailed playlist on designing sounds](https://www.youtube.com/watch?v=NJLIS2MkFe4&list=PLx5i827-FDqNY_grenYJZJpG1esu7GK6v&index=1&ab_channel=InTheMix)
 
 ## Recording and Making Beats
 - 📺 [Recording and Mixing Vocals](https://www.youtube.com/watch?v=awjmFyHiecM&ab_channel=JonasAden)
