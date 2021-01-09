@@ -48,5 +48,6 @@ Each topic will probably warrant its own structure, so feel free to define your 
 - `🔗 Online Resource`
 - `✍️ Assignment`
 - `😄 Person to Follow`
+- `🎙️ Podcast`
 
 Note: Please do not include affiliate links in your submissions. We will change them all to non-affiliate links. 

@@ -27,4 +27,4 @@ tags:
 - 📺 [Step by Step Re-Producing Breakdowns for Pop Songs](https://www.youtube.com/watch?v=2yyBqA_riPg&ab_channel=BeatAcademy)
 - 📺 [Dayglow's Breakdowns for Bedroom Pop](https://www.youtube.com/watch?v=z9WTeHvcFqA&ab_channel=Dayglow)
 - 📺 [Cavetown's Breakdown for Low-Budget Bedroom Pop](https://www.youtube.com/watch?v=0CDA0NVp1Sg&ab_channel=cavetown)
-
+- 📺 [Mixing tricks to make things sound wider by Lophiile](https://www.youtube.com/watch?v=jS9wxVzfJwI&ab_channel=lophiile)

@@ -16,6 +16,7 @@ export default function Intro() {
           <h2 className='text-lg lg:text-4xl'>
             Self-study curriculum on any topic. It's time to teach yourself.
           </h2>
+          <p className="text-center mt-2">Passionate about something? <a href='https://github.com/MurphyStudebaker/curriculum-web-app/blob/master/README.md' className='font-bold hover:underline text-center'> Submit a curriculum ➜</a></p>
         </div>
       </div>
       <div>
